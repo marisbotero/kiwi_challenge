@@ -1,5 +1,5 @@
 # Task 1 ROS Intallation
 
-ROS Kinetic was install in my Ubuntu 16.04, by the way my user name in this machine is inn.
+Target: Upload a screenshot as shown in the attached image. The username of each participant must appear on the image. The image should show that ROS was installed correctly.
 
 ![](Captura.PNG)
