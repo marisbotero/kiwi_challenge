@@ -7,6 +7,8 @@
 rosrun stage_ros stageros ra1.cfg
 ```
 
+![](Captura2.PNG)
+
 
 ```
 rosbag record -a
